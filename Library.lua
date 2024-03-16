@@ -1363,6 +1363,7 @@ do
             TextWrapped = DoesWrap or false,
             TextXAlignment = Enum.TextXAlignment.Left;
             ZIndex = 5;
+            RichText = true; --WUUOP
             Parent = Container;
         });
 
